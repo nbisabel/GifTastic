@@ -1,0 +1,15 @@
+.container {
+    background-color: aliceblue;
+}
+#title {
+    font-family: cursive;
+    color: blue;
+    background-color: beige;
+    font-size: 80px;
+}
+#subtitle {
+    font-family: serif;
+    background-color: beige;
+    font-size: 60px;
+
+}
